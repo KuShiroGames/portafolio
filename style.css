@@ -143,3 +143,36 @@ a:visited {
 .centrartextosoft{
    text-align: center;
 }
+
+#conocimiento{
+  text-align: center;
+}
+
+#contacto{
+  text-align: center;
+}
+html{
+  scroll-behavior: smooth;
+}
+.sobremitext{
+  margin-left: 60px;
+  margin-right: 60px;
+  text-align: center;
+}
+
+.contactocontainer{
+  background: rgba(0,0,0,1);
+color: white;
+border-radius: 15px;
+padding: 20px;
+width: 800px;
+height: 150px;
+}
+
+.contactoitem{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  margin: 1rem;
+}
